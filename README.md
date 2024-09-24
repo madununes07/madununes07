@@ -3,9 +3,14 @@
 
  Meu nome é Maria Eduarda 🖤
 
-° 🧷 Estou no **Alura** desde 2023                                                                                                                                                                                                              
-° 🧷 Estou desenvolvendo um projeto                                                                                                                                                                                                                       
+° 🧷 Estou no **Alura** desde 2023  
+
+° 🧷 Estou desenvolvendo um projeto     
+
 ° 🧷 Estou no primeiro ano do esnsino médio
-° 🧷 Sou umapesoa prestativa
+
+° 🧷 Sou uma pesoa prestativa
+
 ° 🧷 Amo animais e minha família
+
 ° 🧷 Sou muito competitiva
